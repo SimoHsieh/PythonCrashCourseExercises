@@ -1,0 +1,12 @@
+location_list = ['Paris','California','England','Norway','Swizerland']
+print(sorted(location_list))
+print(sorted(location_list,reverse = True))
+print(location_list)
+location_list.reverse()
+print(location_list)
+location_list.reverse()
+print(location_list)
+location_list.sort()
+print(location_list)
+location_list.sort(reverse=True)
+print(location_list)
